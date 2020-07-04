@@ -107,5 +107,7 @@ dist/
 nbdist/
 .nb-gradle/
 
+target/*
+
 ### Intellij template
 .idea/*

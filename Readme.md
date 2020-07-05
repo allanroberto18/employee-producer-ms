@@ -10,4 +10,6 @@ What you can find here:
 3. Simple approach to use Hystrix (Circuit Breaker);
 4. Cors configuration;
 
- 
+##
+Eureka server configuration:
+https://github.com/allanroberto18/employee-eureka-service
